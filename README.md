@@ -36,8 +36,8 @@ virsh --version
 ### Run locally (development / learning)
 
 ```bash
-chmod +x vm_menu.sh
-./vm_menu.sh
+chmod +x vm-menu.sh
+./vm-menu.sh
 ```
 
 ---
@@ -65,7 +65,7 @@ If you want to run the script like a normal command (`vm-menu`), install it syst
 ### Option 1: Install directly (simple)
 
 ```bash
-sudo mv vm_menu.sh /usr/local/bin/vm-menu
+sudo mv vm-menu.sh /usr/local/bin/vm-menu
 sudo chmod +x /usr/local/bin/vm-menu
 ```
 
