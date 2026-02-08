@@ -90,3 +90,10 @@ Expected output:
 ```
 
 
+
+## 📄 License
+
+MIT License
+---
+
+
